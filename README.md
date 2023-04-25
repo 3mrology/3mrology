@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Amr Shaarawy" />
-</h1>
+
 # 🌗 About Me:
 Aloha there!, this is Amr Shaarawy.<br>A world-record holder, a data scientist and mostly importantly a human being.
 
