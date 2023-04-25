@@ -16,6 +16,6 @@ Aloha there!, this is Amr Shaarawy.<br>A world-record holder, a data scientist a
 [![](https://visitcount.itsvg.in/api?id=3mrology&icon=0&color=0)](https://visitcount.itsvg.in)
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/user/omnitenebris](https://open.spotify.com/user/31wltwdobj3rb7mml4bqm5rfyxta?si=45311318e798465f))
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31wltwdobj3rb7mml4bqm5rfyxta?si=19c7c30702734b8f)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
