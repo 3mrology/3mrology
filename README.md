@@ -13,7 +13,9 @@ Aloha there!, this is Amr Shaarawy.<br>A world-record holder, a data scientist a
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
+| Top Languages |
+| ------------- |
+| ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3mrology&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 ---
 [![](https://visitcount.itsvg.in/api?id=3mrology&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
