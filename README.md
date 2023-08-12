@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr</h1>
-<h3 align="center">A data scientist from Egypt</h3>
+<h3 align="center">I speak data</h3>
 # 🌗 About Me:
 Aloha there!, this is Amr Shaarawy.<br>A world-record holder, a data scientist and mostly importantly a human being.
 
