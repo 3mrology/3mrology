@@ -1,3 +1,4 @@
+<img src="https://github.com/3mrology/3mrology/blob/main/gif.svg">
 <h3 align="center">Machine learning engineer by day, AI enthusiast by night, and world-record holder just to keep things interesting.</h3>
 ---
 
