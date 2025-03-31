@@ -478,6 +478,6 @@
       <tspan class="typing" style="animation-delay: 0.1s; animation-duration: 0.2s;">Hi there! I'm Amr Shaarawy 🤖</tspan>
     </text>
     <!-- Blinking cursor at the end of the text -->
-    <rect x="680" y="175" width="3" height="30" fill="white" class="cursor" />
+    <rect x="665" y="175" width="3" height="30" fill="white" class="cursor" />
   </g>
 </svg>
