@@ -1,6 +1,5 @@
 <h1 align="center">Hey there! I'm Amr Shaarawy</h1>
 <h3 align="center">Machine learning engineer by day, AI enthusiast by night, and world-record holder just to keep things interesting.</h3>
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Amr Shaarawy" title="👋 Hi there! I'm Amr Shaarawy"/>](https://raymond.li/)
 ---
 
 ### 🤖 About Me:
