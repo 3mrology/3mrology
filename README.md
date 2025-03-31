@@ -49,3 +49,6 @@ When I'm not making AI smarter, I’m probably debugging something that was work
 
 🚀 **Fun fact:** The AI models I build may one day take over the world, but for now, they mostly just misinterpret sarcasm. Let’s connect!
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
