@@ -42,8 +42,6 @@ When I'm not making AI smarter, I’m probably debugging something that was work
 | ------------- |  
 | ![Amr's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3mrology&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=3mrology&icon=0&color=0)
-
 ---
 
 🚀 **Fun fact:** The AI models I build may one day take over the world, but for now, they mostly just misinterpret sarcasm. Let’s connect!
